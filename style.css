@@ -1,0 +1,38 @@
+body{
+    background-image: url(https://preview.redd.it/devil-vs-god-v0-aytmsnycp0cc1.jpeg?width=1080&crop=smart&auto=webp&s=24111b945bdf288699520b626c17115a60c3a654);
+    background-size: cover;
+
+}
+table,td{
+    height: 200px;
+    width: 200px;
+}
+div{
+    display:flex;
+    justify-content: space-evenly;
+    background-color:rgba(0, 0, 0, 0.7);
+}
+img{
+    height: 190px;
+    width: 150px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 50%;
+    border-top-right-radius: 50%;
+    box-shadow: 3px 3px 5px;
+}
+top{
+    margin-left: 35%;
+}
+h1{
+    font-size: xx-large;
+    color: wheat;
+    text-shadow: 50px;
+}
+h2{
+    font-size: xx-large;
+    color: rgb(131, 13, 13);
+    text-shadow: 50px;
+}
